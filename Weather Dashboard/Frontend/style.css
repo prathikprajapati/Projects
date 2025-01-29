@@ -1,0 +1,18 @@
+.nav-bar{
+    display: flex;
+    justify-content:space-evenly ;
+    padding: 0;
+    background-color: blueviolet;
+    height: 5vh;
+    width: auto;
+    border-radius: 20px;
+}
+.logo-sec{
+    
+}
+.Logo{
+    width: 100px;
+    height: 100px;
+    background: whitesmoke;
+    border-radius: 100%;
+}
